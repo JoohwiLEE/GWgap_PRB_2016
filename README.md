@@ -1,4 +1,4 @@
-# GWgap_PRB_2016
+# GWgap_pred_PRB_2016
 
 This page includes additional data for [Joohwi Lee, Atsuto Seko, Kazuki Shitara, Keita Nakayama, and Isao Tanaka, Prediction model of band gap for inorganic compounds by combination of density functional theory calculations and machine learning techniques, Phys. Rev. B 93, 115104 (2016)] done in Kyoto University.
 
