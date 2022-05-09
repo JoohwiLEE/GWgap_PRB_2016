@@ -7,4 +7,4 @@ done in Kyoto University.
 
 URL : https://journals.aps.org/prb/abstract/10.1103/PhysRevB.93.115104
 
-I hope that this data is helpful for reproducing the regression model for the result in the paper. 
+DOI : https://doi.org/10.1103/PhysRevB.93.115104
